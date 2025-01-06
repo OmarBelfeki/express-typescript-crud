@@ -1,5 +1,10 @@
 # express-typescript-crud
-Our app is a powerful tool designed to help you manage your items with ease. It provides a simple and intuitive interface for performing CRUD operations on your data
+Our app is a powerful tool designed to help you manage your items with ease. It provides a simple and intuitive interface for performing CRUD operations on your data. with this app, you can:
+1/ View all items: Get a complete list of all the items stored in the system.
+2/ View an individual item: Retrieve detailed information about a specific item by its ID.
+3/ Add a new item: Create a new item by providing relevant information.
+4/ Update existing items: Modify the details of an existing item based on its ID.
+5/ Delete items: Remove an item from the system by its ID.
 
 <pre>
 express-typescript-crud/
